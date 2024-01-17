@@ -1,0 +1,114 @@
+{
+    "peashooter": {
+        "sun_cost": "29F2C0",
+        "recharge": "29F2C4",
+        "health": "05DC55",
+        "projectile_address": "066ECB",
+        "projectile_value": "0"
+    },
+    "sunflower": {
+        "sun_cost": "29F2E4",
+        "recharge": "29F2E8",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "cherry_bomb": {
+        "sun_cost": "29F308",
+        "recharge": "29F30C",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "wall_nut": {
+        "sun_cost": "29F32C",
+        "recharge": "29F330",
+        "health": "05E1A7",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "potato_mine": {
+        "sun_cost": "29F350",
+        "recharge": "29F354",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "snow_pea": {
+        "sun_cost": "29F374",
+        "recharge": "29F378",
+        "health": "066ED5",
+        "projectile_address": "066ECB",
+        "projectile_value": "1"
+    },
+    "spikerock": {
+        "health": "05E5C3",
+        "projectile_address": "05E5C3",
+        "projectile_value": "0"
+    },
+
+    "cabbage_pult": {
+        "sun_cost": "29F764",
+        "recharge": "29F768",
+        "health": "066EDF",
+        "projectile_address": "066EDF",
+        "projectile_value": "2"
+    },
+    "flower_pot": {
+        "sun_cost": "29F788",
+        "recharge": "29F78C",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "kernel_pult": {
+        "sun_cost": "29F7AC",
+        "recharge": "29F7B0",
+        "health": "066EE9",
+        "projectile_address": "066EE9",
+        "projectile_value": "10"
+    },
+    "coffee_bean": {
+        "sun_cost": "29F7D0",
+        "recharge": "29F7D4",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "garlic": {
+        "sun_cost": "29F7F4",
+        "recharge": "29F7F8",
+        "health": "05E242",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+
+    "cattail": {
+        "sun_cost": "29F8CC",
+        "recharge": "29F8D0",
+        "health": "066EB3",
+        "projectile_address": "066EB3",
+        "projectile_value": "8"
+    },
+    "winter_melon": {
+        "sun_cost": "29F8F0",
+        "recharge": "29F8F4",
+        "health": "066F0D",
+        "projectile_address": "066F0D",
+        "projectile_value": "5"
+    },
+    "gold_magnet": {
+        "sun_cost": "29F914",
+        "recharge": "29F918",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "cob_cannon": {
+        "sun_cost": "29F95C",
+        "recharge": "29F960",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    }
+}
