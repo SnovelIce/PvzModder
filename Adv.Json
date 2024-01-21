@@ -1,0 +1,565 @@
+{
+    "peashooter": {
+        "Animation": "29F2B8",
+        "sun_cost": "29F2C0",
+        "recharge": "29F2C4",
+        "health": "05DC55",
+        "projectile_address": "066ECB",
+        "projectile_value": "0",
+        "Ability": "45F940"
+    },
+    "sunflower": {
+        "Animation": "29F2DC",
+        "Produces": "5FACB",
+        "sun_cost": "29F2E4",
+        "recharge": "29F2E8",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "cherry_bomb": {
+        "Animation": "29F300",
+        "sun_cost": "29F308",
+        "recharge": "29F30C",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "wall-nut": {
+        "Animation": "29F324"
+    },
+    "potato_mine": {
+        "Animation": "29F348",
+        "sun_cost": "29F350",
+        "recharge": "29F354",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": "",
+        "Ability": "633AE"
+    },
+    "snow_pea": {
+        "Animation": "29F36C",
+        "sun_cost": "29F374",
+        "recharge": "29F378",
+        "health": "066ED5",
+        "projectile_address": "066ECB",
+        "projectile_value": "1"
+    },
+    "chomper": {
+        "Animation": "29F390",
+        "Ability": "632B9"
+    },
+    "repeater": {
+        "Animation": "29F3B4"
+    },
+    "puff-shroom": {
+        "Animation": "29F3D8"
+    },
+    "sun-shroom": {
+        "Animation": "29F3FC"
+    },
+    "fume-shroom": {
+        "Animation": "29F420"
+    },
+    "grave_buster": {
+        "Animation": "29F444",
+        "Ability": "63394"
+    },
+    "hypno-shroom": {
+        "Animation": "29F468",
+        "Ability": "0052B967"
+    },
+    "scaredy-shroom": {
+        "Animation": "29F48C",
+        "Ability": "4633D3"
+    },
+    "ice-shroom": {
+        "Animation": "29F4B0",
+        "Ability": "6328A"
+    },
+    "doom-shroom": {
+        "Animation": "29F4D4",
+        "Ability": "63279"
+    },
+    "lily_pad": {
+        "Animation": "29F4F8"
+    },
+    "squash": {
+        "Animation": "29F51C",
+        "Ability": "463269"
+    },
+    "threepeater": {
+        "Animation": "29F540",
+        "Ability": "00464A9C"
+    },
+    "tangle_kelp": {
+        "Animation": "29F564",
+        "Ability": "633C6"
+    },
+    "jalapeno": {
+        "Animation": "29F588"
+    },
+    "spikeweed": {
+        "Animation": "29F5AC",
+        "Ability": "633BC"
+    },
+    "torchwood": {
+        "Animation": "29F5D0"
+    },
+    "tallnut": {
+        "Animation": "29F5F4"
+    },
+    "sea-shroom": {
+        "Animation": "29F618"
+    },
+    "plantern": {
+        "Animation": "29F63C"
+    },
+    "cactus": {
+        "Animation": "29F660"
+    },
+    "blover": {
+        "Animation": "29F684",
+        "Ability": "632CA"
+    },
+    "split-pea": {
+        "Animation": "29F6A8"
+    },
+    "starfruit": {
+        "Animation": "29F6CC"
+    },
+    "pumpkin": {
+        "Animation": "29F6F0",
+        "Ability 1": "0040D37B",
+        "Ability 2": "0040E2E3"
+    },
+    "magnet-shroom": {
+        "Animation": "29F714"
+    },
+    "cabbage-pult": {
+        "Animation": "29F738"
+    },
+    "flower_pot": {
+        "Animation": "29F75C",
+        "sun_cost": "29F788",
+        "recharge": "29F78C",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "kernel-pult": {
+        "Animation": "29F780"
+    },
+    "coffee_bean": {
+        "Animation": "29F7A4",
+        "sun_cost": "29F7D0",
+        "recharge": "29F7D4",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "garlic": {
+        "Animation": "29F7C8",
+        "sun_cost": "29F7F4",
+        "recharge": "29F7F8",
+        "health": "05E242",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "umbrella_leaf": {
+        "Animation": "29F7EC",
+        "Ability": "41D3F4"
+    },
+    "marigold": {
+        "Animation": "29F810"
+    },
+    "melon-pult": {
+        "Animation": "29F834"
+    },
+    "gatling_pea": {
+        "Animation": "29F858"
+    },
+    "twin_sunflower_1": {
+        "Animation": "29F87C"
+    },
+    "twin_sunflower_2": {
+        "Animation": "29F8A0"
+    },
+    "cattail": {
+        "Animation": "29F8C4",
+        "sun_cost": "29F8CC",
+        "recharge": "29F8D0",
+        "health": "066EB3",
+        "projectile_address": "066EB3",
+        "projectile_value": "8",
+        "Ability": "45F922"
+    },
+    "winter_melon": {
+        "Animation": "29F8E8",
+        "sun_cost": "29F8F0",
+        "recharge": "29F8F4",
+        "health": "066F0D",
+        "projectile_address": "066F0D",
+        "projectile_value": "5"
+    },
+    "gold_magnet": {
+        "Animation": "29F90C",
+        "sun_cost": "29F914",
+        "recharge": "29F918",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "spikerock": {
+        "Animation": "29F930",
+        "health": "05E5C3",
+        "projectile_address": "05E5C3",
+        "projectile_value": "0",
+        "Ability": "633C1"
+    },
+    "cob_cannon": {
+        "Animation": "29F954",
+        "sun_cost": "29F95C",
+        "recharge": "29F960",
+        "health": "05DC55",
+        "projectile_address": "",
+        "projectile_value": "",
+        "Ability": "6333C"
+    },
+    "imitater": {
+        "Animation": "29F978"
+    },
+    "explode-o-nut": {
+        "Animation": "29F99C"
+    },
+    "giant_wall-nut": {
+        "Animation": "29F9C0"
+    },
+    "sprout": {
+        "Animation": "29F9E4"
+    },
+    "reverse_repeater": {
+        "Animation": "29FA08"
+    },
+    "snorkel_zombie_seed": {
+        "Animation": "29FAE0"
+    },
+    "digger_zombie_seed": {
+        "Animation": "29FBDC"
+    },
+    "balloon_zombie_seed": {
+        "Animation": "29FC48"
+    },
+    "pogo_zombie_seed": {
+        "Animation": "29FCB4"
+    },
+    "<missing>": {
+        "Animation": "29FD44"
+    },
+    "seed_packet_id_4f": {
+        "Animation": "29FDD4"
+    },
+    "basic_zombie": {
+        "Animation": "29DA84"
+    },
+    "flag_zombie": {
+        "Animation": "29DAA0"
+    },
+    "conehead_zombie": {
+        "Animation": "29DABC"
+    },
+    "pole_vaulter_zombie": {
+        "Animation": "29DAD8"
+    },
+    "buckethead_zombie": {
+        "Animation": "29DAF4"
+    },
+    "newspaper_zombie": {
+        "Animation": "29DB10"
+    },
+    "screendoor_zombie": {
+        "Animation": "29DB2C"
+    },
+    "football_zombie": {
+        "Animation": "29DB48"
+    },
+    "dancing_zombie": {
+        "Animation": "29DB64"
+    },
+    "backup_dancer": {
+        "Animation": "29DB80"
+    },
+    "ducky_tube": {
+        "Animation": "29DB9C"
+    },
+    "snorkel_zombie": {
+        "Animation": "29DBB8"
+    },
+    "zomboni": {
+        "Animation": "29DBD4"
+    },
+    "bobsled": {
+        "Animation": "29DBF0"
+    },
+    "dolphin_rider": {
+        "Animation": "29DC0C"
+    },
+    "jackbox_zombie": {
+        "Animation": "29DC28"
+    },
+    "balloon_zombie": {
+        "Animation": "29DC44"
+    },
+    "digger_zombie": {
+        "Animation": "29DC60"
+    },
+    "pogo_zombie": {
+        "Animation": "29DC7C"
+    },
+    "yeti": {
+        "Animation": "29DC98"
+    },
+    "bungee_zombie": {
+        "Animation": "29DCB4"
+    },
+    "ladder_zombie": {
+        "Animation": "29DCD0"
+    },
+    "catapult_zombie": {
+        "Animation": "29DCEC"
+    },
+    "gargantuar": {
+        "Animation": "29DD08"
+    },
+    "imp": {
+        "Animation": "29DD24"
+    },
+    "peashooter_zombie": {
+        "Animation": "29DD5C"
+    },
+    "wall-nut_zombie": {
+        "Animation": "29DD78"
+    },
+    "jalapeno_zombie": {
+        "Animation": "29DD94"
+    },
+    "gatling_pea_zombie": {
+        "Animation": "29DDB0"
+    },
+    "squash_zombie": {
+        "Animation": "29DDCC"
+    },
+    "tall-nut_zombie": {
+        "Animation": "29DDE8"
+    },
+    "giga-gargantuar": {
+        "Animation": "29DE04"
+    },
+    "zombie_id_21": {
+        "Animation": "29DE20"
+    },
+    "zombie_id_22": {
+        "Animation": "29DE3C"
+    },
+    "zombie_id_23": {
+        "Animation": "29DE58"
+    },
+    "ladderless_zombie_(68)": {
+        "Animation": "29DE74"
+    },
+    "zombie_id_26": {
+        "Animation": "29DEAC"
+    },
+    "zombie_id_27": {
+        "Animation": "29DEC8"
+    },
+    "zombie_id_28": {
+        "Animation": "29DEE4"
+    },
+    "zombie_id_29": {
+        "Animation": "29DFA8"
+    },
+    "zombie_id_31": {
+        "Animation": "29DFE0"
+    },
+    "zombie_id_32": {
+        "Animation": "29DFFC"
+    },
+    "zombie_id_35": {
+        "Animation": "29E050"
+    },
+    "zombie_id_36": {
+        "Animation": "29E06C"
+    },
+    "small_sun-shroom": {
+        "Produces": "5FABE"
+    },
+    "twin_sunflower": {
+        "Produces": "5FADF"
+    },
+    "plants_that_can_attack_snorkel_zombie_in_underwater-state": {
+        "value": "0045EB2B"
+    },
+    "plants_that_can_attack_balloon_zombie": {
+        "value": "0045EB13"
+    },
+    "plants_excluded_from_peashooter/gatling_pea_zombotany_attacks": {
+        "value": "46CAF9"
+    },
+    "plants_that_light_up_the_fog": {
+        "value": "0041A6FD"
+    },
+    "bowling_wall-nut_disappearance_pixels": {
+        "Horizontal Pixels": "00462D49"
+    },
+    "bowling_wall-nut_super_fast_and_no_vertical_bounce": {
+        "value": "00462D30"
+    },
+    "awake_scenes_for_mushrooms": {
+        "value": "0045DE9F"
+    },
+    "sleeping_plants_during_the_day": {
+        "value": "0045DE79"
+    },
+    "dave_pre-select_seeds": {
+        "value": "00483F1A"
+    },
+    "kernel_pult_rng_thing": {
+        "value": "0045F1DB"
+    },
+    "blover_blows_all_zombies_away": {
+        "value": "00466601"
+    },
+    "grave_buster_does_nothing_to_graves": {
+        "value": "0045FD12"
+    },
+    "ignore_roof_slope": {
+        "value": "0041C6DE"
+    },
+    "chomper_zombies_can't_eat": {
+        "value": "00461451"
+    },
+    "garlic's_effect_offset": {
+        "value": "0052BA59"
+    },
+    "blover_animation_messing": {
+        "value": "0045DF32"
+    },
+    "cactus_visual_shoot_speed": {
+        "value": "00679690"
+    },
+    "cattail_visual_shoot_speed": {
+        "value": "0045F113"
+    },
+    "marigold_output": {
+        "value": "0045FAFC"
+    },
+    "other_marigold_output": {
+        "value": "0045FB0A"
+    },
+    "spikeweed_attack_speed": {
+        "value": "004603B3"
+    },
+    "lobbing_effect_plants": {
+        "value": "004672E8"
+    },
+    "projectile_turns_into_pea_(snowpea)": {
+        "value": "004606BE"
+    },
+    "fumes_damage_screen_door": {
+        "value": "0053184F"
+    },
+    "starfruit_(goty)": {
+        "value": "00472198"
+    },
+    "produced_item_for_zombie_eating_sunflower_(goty)": {
+        "value": "00540674"
+    },
+    "gold_magnet_item_picking": {
+        "value": "004623D7"
+    },
+    "gold_magnet_item_pick-up_visual": {
+        "value": "00462560"
+    },
+    "fume_particles_position": {
+        "value": "004648B3"
+    },
+    "gloom_particles_position": {
+        "value": "004648F7"
+    },
+    "projectile_after_passing_torchwood_(normal_pea)": {
+        "value": "0046ECC8"
+    },
+    "fire_pea_animation": {
+        "value": "0046ED5D"
+    },
+    "not_usable_plant": {
+        "value": "004121E1"
+    },
+    "plants_glow_when_plant_above_them": {
+        "value": "004124FF"
+    },
+    "wheelbarrow_appearance": {
+        "value": "004389A2"
+    },
+    "marigold_rng_(gold_coin_spawn)": {
+        "value": "0045FB05"
+    },
+    "chomper_attack_animation_speed": {
+        "value": "0046138F"
+    },
+    "chomper_state_after_biting": {
+        "value": "004614E5"
+    },
+    "visually_bigger_plants": {
+        "value": "004639E5"
+    },
+    "banned_plants_in_last_stand": {
+        "value": "00491763"
+    },
+    "wallnut_bowling_wallnut_damage_to_body": {
+        "value": "462FBC"
+    },
+    "wallnut_bowling_wallnut_damage_to_helmets": {
+        "value": "462FAC"
+    },
+    "wallnut_bowling_wallnut_damage_to_hand_armor": {
+        "value": "462F74"
+    },
+    "plants_smaller_than_normal_(coffee_bean)": {
+        "value": "463A14"
+    },
+    "chill_color": {
+        "value": "52D337"
+    },
+    "digger_zombie_eatable_plants_(underground)": {
+        "value": "52E569"
+    },
+    "wall_nut": {
+        "sun_cost": "29F32C",
+        "recharge": "29F330",
+        "health": "05E1A7",
+        "projectile_address": "",
+        "projectile_value": ""
+    },
+    "cabbage_pult": {
+        "sun_cost": "29F764",
+        "recharge": "29F768",
+        "health": "066EDF",
+        "projectile_address": "066EDF",
+        "projectile_value": "2"
+    },
+    "kernel_pult": {
+        "sun_cost": "29F7AC",
+        "recharge": "29F7B0",
+        "health": "066EE9",
+        "projectile_address": "066EE9",
+        "projectile_value": "10"
+    },
+    "four_peas_at_once": {
+        "Ability": "0045F05B"
+    },
+    "coin": {
+        "Ability": "06336C"
+    }
+}
